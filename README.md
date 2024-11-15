@@ -7,7 +7,10 @@
 - 😄 Pronouns: He/Him
   
 - ⚡ Fun fact: I also use itch.io, YouTube, and more. Below are links to my profiles.
+
   
 Itch.io - https://tony-gfgg.itch.io/
+
 Roblox - https://www.roblox.com/users/530080494/profile
+
 YouTube - https://www.youtube.com/@TonyGfgg
