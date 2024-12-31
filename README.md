@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Tony Gfgg!
   
 - 👀 I’m a big fan of computers, anything tech related.
+
+- 🏆My main achievements are creating a kinda functional OS (In scratch, but I plan to make a version for linux.), building my own computer in Logisim Evolution (Currently has 4 Bytes RAM, 3 Registers, 8 Bit Data)
   
-- 🌱 I’m currently learning Python & HTML, but I also know a bit of C#, and Scratch (That block-coding language that means nothing on here.)
+- 🌱 I’m currently learning Python & HTML, but I also know a bit of C#, C, Javascript, and Scratch (That block-coding language that means nothing on here.)
   
 - 😄 Pronouns: He/Him
   
