@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony Gfgg!
   
-- 👀 I’m a big fan of computers, anything tech related.
+- 👀 I’m a big fan of retro tech, the Wii, and just anything related to Tech.
 
 - 🏆My main achievements are creating a basic OS in Scratch, building a computer in Logisim, and getting 18th place in a game jam for a game about a ball-shaped chicken.
   
